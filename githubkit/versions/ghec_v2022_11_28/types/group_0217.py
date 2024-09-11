@@ -12,6 +12,7 @@ from __future__ import annotations
 from typing import List, Union
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0208 import BranchRestrictionPolicyType
 from .group_0218 import ProtectedBranchPropRequiredPullRequestReviewsType
 

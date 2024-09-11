@@ -13,6 +13,7 @@ from datetime import datetime
 from typing import List, Union, Literal
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0001 import SimpleUserType
 from .group_0033 import SimpleRepositoryType
 from .group_0211 import CodeScanningVariantAnalysisPropSkippedRepositoriesType

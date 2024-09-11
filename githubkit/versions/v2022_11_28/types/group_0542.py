@@ -13,6 +13,7 @@ from datetime import datetime
 from typing import List, Union, Literal
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0550 import WebhookIssuesClosedPropIssueMergedMilestoneType
 from .group_0548 import WebhookIssuesClosedPropIssueAllof0PropPullRequestType
 from .group_0551 import WebhookIssuesClosedPropIssueMergedPerformedViaGithubAppType

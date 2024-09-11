@@ -11,6 +11,7 @@ from __future__ import annotations
 
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0466 import WebhooksTeam1Type
 from .group_0413 import EnterpriseWebhooksType
 from .group_0414 import SimpleInstallationType

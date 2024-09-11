@@ -13,6 +13,7 @@ from datetime import datetime
 from typing import List, Union, Literal
 from typing_extensions import TypedDict
 
+
 from .group_0031 import DependabotAlertSecurityVulnerabilityType
 
 

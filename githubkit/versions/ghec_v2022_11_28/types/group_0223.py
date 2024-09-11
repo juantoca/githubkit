@@ -13,6 +13,7 @@ from datetime import datetime
 from typing import List, Union, Literal
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0006 import IntegrationType
 from .group_0194 import SimpleCommitType
 from .group_0082 import MinimalRepositoryType

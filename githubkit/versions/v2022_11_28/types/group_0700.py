@@ -11,6 +11,7 @@ from __future__ import annotations
 
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0703 import WebhookRepositoryRulesetEditedPropChangesPropRulesType
 from .group_0701 import WebhookRepositoryRulesetEditedPropChangesPropConditionsType
 

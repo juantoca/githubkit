@@ -12,6 +12,7 @@ from __future__ import annotations
 from typing import Literal
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0404 import MergeGroupType
 from .group_0377 import SimpleInstallationType
 from .group_0379 import RepositoryWebhooksType

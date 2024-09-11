@@ -12,6 +12,7 @@ from __future__ import annotations
 from typing import List, Literal
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0017 import RepositoryType
 from .group_0014 import AppPermissionsType
 

@@ -12,6 +12,7 @@ from __future__ import annotations
 from typing import Literal
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0066 import IssueType
 from .group_0017 import RepositoryType
 from .group_0414 import SimpleInstallationType

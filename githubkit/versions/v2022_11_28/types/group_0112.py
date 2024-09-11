@@ -11,6 +11,7 @@ from __future__ import annotations
 
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0103 import RepositoryRulesetConditionsPropRefNameType
 from .group_0109 import (
     RepositoryRulesetConditionsRepositoryPropertyTargetPropRepositoryPropertyType,

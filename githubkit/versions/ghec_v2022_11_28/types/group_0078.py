@@ -12,6 +12,7 @@ from __future__ import annotations
 from typing import Union
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0079 import (
     MarketplacePurchasePropMarketplacePurchaseType,
     MarketplacePurchasePropMarketplacePendingChangeType,

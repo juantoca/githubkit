@@ -13,6 +13,7 @@ from datetime import datetime
 from typing import List, Union, Literal
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0001 import SimpleUserType
 from .group_0017 import RepositoryType
 from .group_0016 import LicenseSimpleType

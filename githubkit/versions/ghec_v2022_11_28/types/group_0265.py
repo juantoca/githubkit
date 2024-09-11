@@ -13,6 +13,7 @@ from datetime import datetime
 from typing import Union, Literal
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0001 import SimpleUserType
 from .group_0266 import DependabotAlertPropDependencyType
 from .group_0053 import DependabotAlertSecurityAdvisoryType

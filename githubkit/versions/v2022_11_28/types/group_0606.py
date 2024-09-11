@@ -11,6 +11,7 @@ from __future__ import annotations
 
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0379 import RepositoryWebhooksType
 from .group_0380 import SimpleUserWebhooksType
 from .group_0607 import WebhookPingPropHookType

@@ -12,6 +12,7 @@ from __future__ import annotations
 from typing import Literal
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0390 import DiscussionType
 from .group_0389 import WebhooksAnswerType
 from .group_0379 import RepositoryWebhooksType

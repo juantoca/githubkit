@@ -12,6 +12,7 @@ from __future__ import annotations
 from typing import List
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0378 import MetaType
 from .group_0388 import ScimEnterpriseUserResponseAllof1PropGroupsItemsType
 

@@ -12,6 +12,7 @@ from __future__ import annotations
 from typing import List, Literal
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0191 import CommitType
 from .group_0190 import DiffEntryType
 

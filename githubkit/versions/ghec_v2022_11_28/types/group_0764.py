@@ -11,6 +11,7 @@ from __future__ import annotations
 
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0125 import FullRepositoryType
 from .group_0413 import EnterpriseWebhooksType
 from .group_0414 import SimpleInstallationType

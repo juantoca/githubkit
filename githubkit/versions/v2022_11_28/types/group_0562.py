@@ -12,6 +12,7 @@ from __future__ import annotations
 from typing import Union, Literal
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0397 import WebhooksIssueType
 from .group_0376 import EnterpriseWebhooksType
 from .group_0377 import SimpleInstallationType

@@ -12,6 +12,7 @@ from __future__ import annotations
 from weakref import ref
 from typing import TYPE_CHECKING, Dict, Optional
 
+
 from githubkit.utils import exclude_unset
 
 if TYPE_CHECKING:

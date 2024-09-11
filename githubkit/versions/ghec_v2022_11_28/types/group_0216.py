@@ -11,6 +11,7 @@ from __future__ import annotations
 
 from typing_extensions import TypedDict, NotRequired
 
+
 from .group_0214 import CommitType
 from .group_0209 import BranchProtectionType
 
